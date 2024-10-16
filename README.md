@@ -8,10 +8,12 @@ This repository contains the source code, generated figures, and tutorials for t
 
 - Source Code
   - [`src/`](./src): Contains the source code for generating graphs and figures
-    - [`lesson_1_stats1/`](./src/lesson_1_stats1): Code for Lesson 1 on Statistics
+    - [`lesson_1_stats1/`](./src/lesson_1_stats1): Code for Lesson 1 on Statistics (descriptive statistics)
+    - [`lesson_2_stats2/`](./src/lesson_2_stats2): Code for Lesson 2 on Statistics (hypothesis testing)
 - Generated Figures
   - [`images/`](./images): Stores the generated figures for each lesson
     - [`Lesson1/`](./images/Lesson1)
+    - [`Lesson2/`](./images/Lesson2)
 - Tutorials
   - [`tutorials/`](./tutorials): Contains educational tutorials related to the project
     - [`Building regular expressions (regex) for evaluating user input in Argos`](./tutorials/validating_student_input_using_regular_expressions.md)
