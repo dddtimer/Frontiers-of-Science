@@ -31,12 +31,12 @@ You can also customize the labels used for these containers to match the termino
 ### Practical Steps for Setting Up Course Structure:
 
 1. **Create a New Course**: Once logged into Argos, navigate to the project dashboard and click on **"Create New Project"**.
-   - Enter a **descriptive course name** (e.g., "Introduction to Biology") and click **"Create"**.
+   - Enter a **descriptive course name** (e.g., "Frontiers of Science") and click **"Create"**.
 
 2. **Set Up Your Course Containers**: Navigate to the **Curriculum** view where you can start adding your Units, Modules, and Pages.
-   - **Add a Unit**: Click **"Add Unit"** to create a new overarching topic (e.g., "Unit 1: Basics of Biology").
-   - **Add a Module**: Click into the Unit you just created and select **"Add Module"**. A module could focus on a sub-topic like "Cell Structure".
-   - **Add a Page**: Once in a Module, click **"Add Page"**. Pages contain your actual content and assessments. For example, a page in the “Cell Structure” module could be titled "Animal vs. Plant Cells".
+   - **Add a Unit**: Click **"Add Unit"** to create a new overarching topic (e.g., "Unit 1: Statistics").
+   - **Add a Module**: Click into the Unit you just created and select **"Add Module"**. A module could focus on a sub-topic like "Hypothesis testing".
+   - **Add a Page**: Once in a Module, click **"Add Page"**. Pages contain your actual content and assessments. For example, a page in the “Hypothesis testing” module could be titled "Calculating 95% confidence intervals".
 
 This layered structure makes it easy to organize your course while ensuring that content is logically segmented. A large course might include multiple Units, each containing several Modules and Pages.
 
@@ -52,11 +52,11 @@ Learning objectives define what learners should achieve by the end of a lesson, 
 
 2. **Add a New Objective**:
    - Click **"Add Objective"** and write out your learning goal.
-   - Example: "Understand the fundamentals of cellular biology".
+   - Example: "Develop proficiency in statistics".
 
 3. **Add Sub-Objectives** (optional):
    - Click **"Add Sub-Objective"** under each learning objective to add more specific targets.
-   - Example: "Differentiate between prokaryotic and eukaryotic cells".
+   - Example: "Demonstrate an understanding of mean, standard deviation, and standard error.".
 
 4. **Tag Learning Objectives to Content and Assessments**:
    - When editing a page or an assessment question, look for the **"Objectives"** section.
