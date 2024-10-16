@@ -16,4 +16,6 @@ This repository contains the source code, generated figures, and tutorials for t
     - [`Lesson2/`](./images/Lesson2)
 - Tutorials
   - [`tutorials/`](./tutorials): Contains educational tutorials related to the project
+    - [`Authoring lessons in Argos`](./tutorials/authoring_lessons_in_argos.md)
     - [`Building regular expressions (regex) for evaluating user input in Argos`](./tutorials/validating_student_input_using_regular_expressions.md)
+    - 
