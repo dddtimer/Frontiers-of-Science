@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the source code, generated figures, and tutorials for the redesigned Argos lessons used in the Frontiers of Science course. 
+This repository contains the source code, generated figures, and tutorials for the redesigned Argos lessons used in the Frontiers of Science course. Please read the [`HOWTO file`](./tutorials/HOWTO_running_python_scripts.md) for instructions on downloading and running the scripts in this repository.
 
 ## Project Structure
 
@@ -16,6 +16,6 @@ This repository contains the source code, generated figures, and tutorials for t
     - [`Lesson2/`](./images/Lesson2)
 - Tutorials
   - [`tutorials/`](./tutorials): Contains educational tutorials related to the project
+    - [`HOWTO: running the Python scripts`](./tutorials/HOWTO_running_python_scripts.md)
     - [`Authoring lessons in Argos`](./tutorials/authoring_lessons_in_argos.md)
     - [`Building regular expressions (regex) for evaluating user input in Argos`](./tutorials/validating_student_input_using_regular_expressions.md)
-      
