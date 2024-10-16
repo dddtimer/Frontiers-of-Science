@@ -1,2 +1,17 @@
-# Frontiers-of-Science
-Code and documentation relevant to managing online lessons for Frontiers of Science
+# Frontiers of Science: Argos Lesson Materials
+
+## Overview
+
+This repository contains the source code, generated figures, and tutorials for the redesigned Argos lessons used in the Frontiers of Science course. 
+
+## Project Structure
+
+- Source Code
+  - [`src/`](./src): Contains the source code for generating graphs and figures
+    - [`lesson_1_stats1/`](./src/lesson_1_stats1): Code for Lesson 1 on Statistics
+- Generated Figures
+  - [`images/`](./images): Stores the generated figures for each lesson
+    - [`Lesson1/`](./images/Lesson1)
+- Tutorials
+  - [`tutorials/`](./tutorials): Contains educational tutorials related to the project
+    - [`Building regular expressions (regex) for evaluating user input in Argos`](./tutorials/validating_student_input_using_regular_expressions.md)
